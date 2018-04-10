@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>All YujiaTestTemplateApp basic users able to edit a YujiaTestTemplateApp Request can change the state field when state flows are off</description>
+        <name>x_213226_yujiatesttemplateapp_request.state</name>
+        <operation display_value="write">write</operation>
+        <script><![CDATA[var sc = new sn_sm.SMConfiguration();
+var stateFlowsOff = !sc.isEnabled(current, 'use_sf');
+answer = stateFlowsOff;]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-09 08:55:35</sys_created_on>
+        <sys_id>ef9fae6e4fd113009782926ca310c7f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_213226_yujiatesttemplateapp_request.state</sys_name>
+        <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+        <sys_update_name>sys_security_acl_ef9fae6e4fd113009782926ca310c7f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-09 08:55:35</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

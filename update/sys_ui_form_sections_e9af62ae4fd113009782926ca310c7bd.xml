@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="e9af62ae4fd113009782926ca310c7bd" sys_domain="global" table="x_213226_yujiatest_sftemplateapp_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65af62ae4fd113009782926ca310c7be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213226_yujiatest_sftemplateapp_request" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">e9af62ae4fd113009782926ca310c7bd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">e1af62ae4fd113009782926ca310c7ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5af62ae4fd113009782926ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213226_yujiatest_sftemplateapp_request" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">e9af62ae4fd113009782926ca310c7bd</sys_ui_form>
+            <sys_ui_section caption="Manual" display_value="Manual" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">29af62ae4fd113009782926ca310c7c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65af62ae4fd113009782926ca310c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213226_yujiatest_sftemplateapp_request" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">e9af62ae4fd113009782926ca310c7bd</sys_ui_form>
+            <sys_ui_section caption="Automatic" display_value="Automatic" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">a9af62ae4fd113009782926ca310c7c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6daf62ae4fd113009782926ca310c7d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213226_yujiatest_sftemplateapp_request" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">e9af62ae4fd113009782926ca310c7bd</sys_ui_form>
+            <sys_ui_section caption="Field Controls" display_value="Field Controls" name="x_213226_yujiatest_sftemplateapp_request" sys_domain="global" view="Default view">6daf62ae4fd113009782926ca310c7cf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_213226_yujiatest_sftemplateapp_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9af62ae4fd113009782926ca310c7bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_213226_yujiatest_sftemplateapp_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e9af62ae4fd113009782926ca310c7bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

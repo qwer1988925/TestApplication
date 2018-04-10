@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_213226_yujiatesttemplateapp_request" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yujiatesttemplateapp Request - Default view" name="x_213226_yujiatesttemplateapp_request" related_list="NULL" sys_domain="global" view="Default view">65af62ae4fd113009782926ca310c7a9</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_id>2daf62ae4fd113009782926ca310c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yujiatesttemplateapp Request - Default view" name="x_213226_yujiatesttemplateapp_request" related_list="NULL" sys_domain="global" view="Default view">65af62ae4fd113009782926ca310c7a9</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_213226_yujiatesttemplateapp_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_id>21af62ae4fd113009782926ca310c7ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yujiatesttemplateapp Request - Default view" name="x_213226_yujiatesttemplateapp_request" related_list="NULL" sys_domain="global" view="Default view">65af62ae4fd113009782926ca310c7a9</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:9d3ffe10df221100dca6a5f59bf2637a</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_id>61af62ae4fd113009782926ca310c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yujiatesttemplateapp Request - Default view" name="x_213226_yujiatesttemplateapp_request" related_list="NULL" sys_domain="global" view="Default view">65af62ae4fd113009782926ca310c7a9</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_id>65af62ae4fd113009782926ca310c7ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yujiatesttemplateapp Request - Default view" name="x_213226_yujiatesttemplateapp_request" related_list="NULL" sys_domain="global" view="Default view">65af62ae4fd113009782926ca310c7a9</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>dms_document.service_order</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_id>a5af62ae4fd113009782926ca310c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yujiatesttemplateapp Request - Default view" name="x_213226_yujiatesttemplateapp_request" related_list="NULL" sys_domain="global" view="Default view">65af62ae4fd113009782926ca310c7a9</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_id>a9af62ae4fd113009782926ca310c7ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Yujiatesttemplateapp Request - Default view" name="x_213226_yujiatesttemplateapp_request" related_list="NULL" sys_domain="global" view="Default view">65af62ae4fd113009782926ca310c7a9</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>task_activity.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_id>e9af62ae4fd113009782926ca310c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Yujiatesttemplateapp Request - Default view</calculated_name>
+            <filter/>
+            <name>x_213226_yujiatesttemplateapp_request</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65af62ae4fd113009782926ca310c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Yujiatesttemplateapp Request - Default view</sys_name>
+            <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+            <sys_update_name>sys_ui_related_x_213226_yujiatesttemplateapp_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

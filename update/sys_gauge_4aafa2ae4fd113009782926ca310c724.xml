@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_gauge">
+    <sys_gauge action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate>COUNT</aggregate>
+        <attributes/>
+        <fieldname/>
+        <group_field/>
+        <lower_limit/>
+        <name>YujiaTestTemplateApp Group Usage</name>
+        <order/>
+        <other_threshold>-2</other_threshold>
+        <parent/>
+        <query/>
+        <report display_value="YujiaTestTemplateApp Group Usage">42afa2ae4fd113009782926ca310c723</report>
+        <roles/>
+        <stack_field/>
+        <sys_class_name>sys_gauge</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-09 08:55:45</sys_created_on>
+        <sys_id>4aafa2ae4fd113009782926ca310c724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>YujiaTestTemplateApp Group Usage</sys_name>
+        <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+        <sys_update_name>sys_gauge_4aafa2ae4fd113009782926ca310c724</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-09 08:55:45</sys_updated_on>
+        <tablename>x_213226_yujiatesttemplateapp_task</tablename>
+        <title>YujiaTestTemplateApp Group Usage</title>
+        <type>report</type>
+        <upper_limit/>
+        <url/>
+        <view/>
+    </sys_gauge>
+</record_update>

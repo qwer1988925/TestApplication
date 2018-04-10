@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="territory_user" name="territory_user">4616cf7d37311000deeabfc8bcbe5d0b</contains>
+        <role display_value="x_213226_yujiatest_dispatcher" name="x_213226_yujiatest_dispatcher">c88f6a6e4fd113009782926ca310c751</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-09 08:55:05</sys_created_on>
+        <sys_id>188f6a6e4fd113009782926ca310c77c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>territory_user.x_213226_yujiatest_dispatcher</sys_name>
+        <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+        <sys_update_name>sys_user_role_contains_188f6a6e4fd113009782926ca310c77c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-09 08:55:05</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

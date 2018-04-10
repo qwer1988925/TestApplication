@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_213226_yujiatest_initiator" name="x_213226_yujiatest_initiator">408f6a6e4fd113009782926ca310c755</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-09 08:55:04</sys_created_on>
+        <sys_id>0c8f6a6e4fd113009782926ca310c756</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>408f6a6e4fd113009782926ca310c755</sys_name>
+        <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0c8f6a6e4fd113009782926ca310c756</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-09 08:55:04</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

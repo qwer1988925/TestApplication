@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_213226_yujiatest_sftemplateapp_request">
+    <x_213226_yujiatest_sftemplateapp_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string>(!current.assigned_to.nil() || !current.template.nil()) &amp;&amp; (new sn_sm.SMConfiguration()).isEnabled(current, "approval", false)</automatic_string>
+        <business_rule display_value="Ready for work (approval on)">c98faa6e4fd113009782926ca310c755</business_rule>
+        <change_client_script/>
+        <client_script/>
+        <comment>YujiaTestTemplateApp Request State flow</comment>
+        <derived_from display_value="Ready for work (approval on)">edfeb353df312100dca6a5f59bf263e3</derived_from>
+        <end_text>10</end_text>
+        <ending_state display_value="Ready">777f2a6e4fd113009782926ca310c7fb</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script><![CDATA[action.setRedirectURL(current);]]></manual_script>
+        <manual_string>(new sn_sm.SMConfiguration()).isEnabled(current, "approval", false)</manual_string>
+        <name>Ready for work (approval on)</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010011</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>13</start_text>
+        <starting_state display_value="Approved">777f2a6e4fd113009782926ca310c7f3</starting_state>
+        <sys_class_name>x_213226_yujiatest_sftemplateapp_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-09 08:55:08</sys_created_on>
+        <sys_id>c18faa6e4fd113009782926ca310c755</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ready for work (approval on)</sys_name>
+        <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+        <sys_update_name>x_213226_yujiatest_sftemplateapp_request_c18faa6e4fd113009782926ca310c755</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-09 08:55:08</sys_updated_on>
+        <table>x_213226_yujiatesttemplateapp_request</table>
+        <translated_ending_state>Ready</translated_ending_state>
+        <translated_starting_state>Approved</translated_starting_state>
+        <ui_action display_value="Ready for work">018faa6e4fd113009782926ca310c759</ui_action>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </x_213226_yujiatest_sftemplateapp_request>
+</record_update>

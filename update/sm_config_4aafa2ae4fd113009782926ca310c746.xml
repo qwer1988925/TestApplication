@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_213226_yujiatest_admin" name="x_213226_yujiatest_admin">888f6a6e4fd113009782926ca310c743</admin_role>
+        <agent_role display_value="x_213226_yujiatest_agent" name="x_213226_yujiatest_agent">0c8f6a6e4fd113009782926ca310c747</agent_role>
+        <app_name>yujiatesttemplateapp</app_name>
+        <approval>true</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="x_213226_yujiatest_approver_user" name="x_213226_yujiatest_approver_user">cc8f6a6e4fd113009782926ca310c74a</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>true</auto_dispatch>
+        <basic_role display_value="x_213226_yujiatest_basic" name="x_213226_yujiatest_basic">808f6a6e4fd113009782926ca310c74e</basic_role>
+        <catalog display_value="YujiaTestTemplateApp Catalog">a4af22ae4fd113009782926ca310c7ad</catalog>
+        <created_with_version>Kingston: 03-02-2018_1305</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="yujiatesttemplateapp_dispatch">828fea6e4fd113009782926ca310c73e</dispatch_group_type>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role display_value="x_213226_yujiatest_dispatcher" name="x_213226_yujiatest_dispatcher">c88f6a6e4fd113009782926ca310c751</dispatcher_role>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="x_213226_yujiatest_initiator" name="x_213226_yujiatest_initiator">408f6a6e4fd113009782926ca310c755</initiator_role>
+        <kbase display_value="YujiaTestTemplateApp Knowledge">b4af22ae4fd113009782926ca310c7d0</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>true</limit_by_location>
+        <main_model_category display_value="YujiaTestTemplateApp Request Template">9f9fae6e4fd113009782926ca310c70d</main_model_category>
+        <main_model_table>x_213226_yujiatesttemplateapp_request_template</main_model_table>
+        <main_state_flow_table>x_213226_yujiatest_sftemplateapp_request</main_state_flow_table>
+        <main_table>x_213226_yujiatesttemplateapp_request</main_table>
+        <managed_docs>true</managed_docs>
+        <mandatory_work_notes>false</mandatory_work_notes>
+        <name>YujiaTestTemplateApp</name>
+        <part_requirement>false</part_requirement>
+        <pdf_order_summary>false</pdf_order_summary>
+        <property_prefix>x_213226_yujiatest</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_213226_yujiatest_read" name="x_213226_yujiatest_read">048f6a6e4fd113009782926ca310c758</read_role>
+        <request_dispatch_method>auto</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>false</request_driven>
+        <rollup_work_notes>false</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <signature_capture>false</signature_capture>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-09 08:55:46</sys_created_on>
+        <sys_id>4aafa2ae4fd113009782926ca310c746</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>YujiaTestTemplateApp</sys_name>
+        <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+        <sys_update_name>sm_config_4aafa2ae4fd113009782926ca310c746</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-09 08:55:46</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>auto</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="YujiaTestTemplateApp Task Template">979fae6e4fd113009782926ca310c70e</task_model_category>
+        <task_model_table>x_213226_yujiatesttemplateapp_task_template</task_model_table>
+        <task_state_flow_table>x_213226_yujiatest_sftemplateapp_task</task_state_flow_table>
+        <task_table>x_213226_yujiatesttemplateapp_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>true</use_follow_the_sun>
+        <use_location>true</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>true</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>true</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="yujiatesttemplateapp_vendor">068fea6e4fd113009782926ca310c73e</vendor_group_type>
+        <work_group_type display_value="yujiatesttemplateapp">8a8fea6e4fd113009782926ca310c73d</work_group_type>
+    </sm_config>
+</record_update>

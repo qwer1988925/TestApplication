@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="YujiaTestTemplateApp Request Template" language="en" table="x_213226_yujiatesttemplateapp_request_template">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>YujiaTestTemplateApp Request Template</label>
+            <language>en</language>
+            <name>x_213226_yujiatesttemplateapp_request_template</name>
+            <plural>YujiaTestTemplateApp Request Templates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-09 08:55:02</sys_created_on>
+            <sys_id>6f7f2a6e4fd113009782926ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>YujiaTestTemplateApp Request Template</sys_name>
+            <sys_package display_value="YujiaTestTemplateApp" source="x_213226_yujiatest">df7f6aea4fd113009782926ca310c711</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="YujiaTestTemplateApp">df7f6aea4fd113009782926ca310c711</sys_scope>
+            <sys_update_name>sys_documentation_x_213226_yujiatesttemplateapp_request_template__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-09 08:55:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
